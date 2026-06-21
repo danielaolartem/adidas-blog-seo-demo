@@ -14,7 +14,7 @@ from datetime import datetime
 # CONFIGURACIÓN DE PÁGINA
 # ═══════════════════════════════════════════════════════════
 st.set_page_config(
-    page_title="adidas LAM — Generador SEO/AEO",
+    page_title="Adidas Blog Builder - SEO LAM",
     page_icon="⚡",
     layout="wide",
 )
