@@ -733,7 +733,7 @@ with st.sidebar:
 # ═══════════════════════════════════════════════════════════
 # LÓGICA PRINCIPAL
 # ═══════════════════════════════════════════════════════════
-st.title("Generador de Contenido SEO/AEO")
+st.title("Blog Builder - SEO LAM")
 st.caption("Blogs editoriales anclados en datos reales de búsqueda — multi-mercado LAM")
 
 if generar:
