@@ -711,7 +711,7 @@ if "blog" not in st.session_state:
 # SIDEBAR — INPUTS
 # ═══════════════════════════════════════════════════════════
 with st.sidebar:
-    st.title("⚡ Generador SEO/AEO")
+    st.title("⚡ Blog Builder")
     st.caption("adidas LAM — Demo Business Case")
 
     keyword = st.text_input(
